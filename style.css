@@ -1,0 +1,34 @@
+*
+{
+  margin: 0;
+  padding: 0;
+}
+
+nav{
+  display:flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+.buttonGroup{
+  display:flex;
+  align-items: center;
+  padding-right: 30px;
+}
+
+#imagesLink{
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.main{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.launchButtons{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+}
