@@ -1,5 +1,5 @@
 # landing-page-google
 
-Team :\n
-ROBERT Cédric\n
-GAGNAIRE Noel\n
+## Team :  
+- GAGNAIRE Noel  
+- ROBERT Cédric  
